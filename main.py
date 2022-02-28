@@ -1,6 +1,6 @@
 import functions as f
 
-# f.create_table() # desativar após criar table
+f.create_table() # desativar após criar table
 
 while True:
     print('\nadd - adicionar | rmv - remover | dat - ver dados | end - sair')
